@@ -1,11 +1,11 @@
 {
     "name": "PlayBit",
     "version": "1.0.0",
-    "description": "Extension for PlayBit V1.0",
+    "description": "Extension for PlayBit V1.01",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:kittenbot/pxt-neopixel#v0.6.15"
+        "neopixel": "github:zarkon-tech/pxt-neopixel"
     },
     "files": [
         "README.md",
