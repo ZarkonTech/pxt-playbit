@@ -1,6 +1,6 @@
 # playbit
 
-Extension for playbit
+Extension for PlayBit
 
 ## License
 
