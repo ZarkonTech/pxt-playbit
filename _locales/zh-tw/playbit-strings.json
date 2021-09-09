@@ -9,5 +9,5 @@
     "playbit.MotorStopAll|block": "停止所有馬達",
     "playbit.StepperDegree|block": "步進 28BYJ-48|%index|角度 %degree",
     "playbit.StepperTurn|block": "步進 28BYJ-48|%index|圈數 %turn",
-    "playbit.StepperDual|block": "雙步進(角度) |M1 %degree1| M2 %degree2",
+    "playbit.StepperDual|block": "雙步進(角度) |M1 %degree1| M2 %degree2"
 }
