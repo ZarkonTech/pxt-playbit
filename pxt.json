@@ -12,7 +12,6 @@
         "main.ts",
         "_locales/zh-cn/playbit-strings.json",
         "_locales/zh-tw/playbit-strings.json"
-
     ],
     "testFiles": [
         "test.ts"
