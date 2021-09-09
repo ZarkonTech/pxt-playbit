@@ -10,6 +10,4 @@
     "playbit.StepperDegree|block": "步進 28BYJ-48|%index|角度 %degree",
     "playbit.StepperTurn|block": "步進 28BYJ-48|%index|圈數 %turn",
     "playbit.StepperDual|block": "雙步進(角度) |M1 %degree1| M2 %degree2",
-    "playbit.StpCarMove|block": "步進小車 前進 |距離(cm) %distance|輪直徑(mm) %diameter",
-    "playbit.StpCarTurn|block": "步進小車 轉向 |角度 %turn|輪直徑(mm) %diameter|輪距(mm) %track"
 }
