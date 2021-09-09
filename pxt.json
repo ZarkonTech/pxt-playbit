@@ -1,7 +1,7 @@
 {
-    "name": "PlayBit",
+    "name": "playbit",
     "version": "0.0.1",
-    "description": "Extension for PlayBit",
+    "description": "Extension for playbit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -10,8 +10,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-cn/PlayBit-strings.json",
-        "_locales/zh-tw/PlayBit-strings.json"
+        "_locales/zh-cn/playbit-strings.json",
+        "_locales/zh-tw/playbit-strings.json"
 
     ],
     "testFiles": [
