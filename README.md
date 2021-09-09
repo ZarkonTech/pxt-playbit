@@ -1,4 +1,4 @@
-# playbit
+# PlayBit
 
 Extension for PlayBit
 
