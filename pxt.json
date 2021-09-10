@@ -4,7 +4,7 @@
     "description": "Extension for Zarkon PlayBit V1.0.3",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
         "neopixel": "github:zarkon-tech/pxt-neopixel"
     },
     "files": [
