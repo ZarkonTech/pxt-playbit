@@ -1,10 +1,4 @@
-/*
-load dependency
-"PlayBit": "file:../pxt-playbit"
-*/
-
-
-//% color="#47bc00" weight=20 icon="\uf1b3"
+//% color="#0000CD" weight=20 icon="\uf1d8"
 namespace playbit {
 
     const PCA9685_AD = 0x40
