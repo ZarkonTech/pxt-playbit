@@ -1,11 +1,11 @@
 {
-    "name": "PLAY",
+    "name": "PlayBit",
     "version": "1.0.0",
     "description": "Extension for Zarkon PlayBit V1.03",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:lzty634158/pxt-neopixel"
+        "core": "*"
+        "neopixel": "github:zarkon-tech/pxt-neopixel"
     },
     "files": [
         "README.md",
