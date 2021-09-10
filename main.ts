@@ -1,6 +1,6 @@
 /*
 load dependency
-"playbit": "file:../pxt-playbit"
+"PlayBit": "file:../pxt-playbit"
 */
 
 
