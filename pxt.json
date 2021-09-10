@@ -1,7 +1,7 @@
 {
     "name": "PlayBit",
-    "version": "1.0.0",
-    "description": "Extension for Zarkon PlayBit V1.03",
+    "version": "1.0.3",
+    "description": "Extension for Zarkon PlayBit V1.0.3",
     "license": "MIT",
     "dependencies": {
         "core": "*"
