@@ -1,4 +1,6 @@
 {
+    "playbit.rgb|block": "RGB红绿蓝三色编程灯",
+    "playbit.Music|block": "播放音乐旋律|%index",
     "playbit.Servo|block": "9g舵机|%index|角度 %degree",
     "playbit.GeekServo|block": "Geekservo|9g舵机|%index|角度 %degree",
     "playbit.GeekServo2KG|block": "Geekservo|2KG舵机|%index|角度 %degree",
