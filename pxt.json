@@ -1,5 +1,5 @@
 {
-    "name": "PalyBit",
+    "name": "PlayBit",
     "version": "1.0.0",
     "description": "Extension for Zarkon PlayBit V1.0.0",
     "license": "MIT",
@@ -9,7 +9,7 @@
     },
     "files": [
         "README.md",
-        "main.ts",
+        "playbit.ts",
         "_locales/zh-cn/playbit-strings.json",
         "_locales/zh-tw/playbit-strings.json"
     ],
