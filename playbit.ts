@@ -1,4 +1,4 @@
-//% color="#009ad6" weight=20 icon="\uf0eb"
+//% color="#007d65" weight=20 icon="\uf0eb"
 namespace playbit {
 
     const PCA9685_AD = 0x40
