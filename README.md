@@ -1,6 +1,6 @@
 # PlayBit
 
-Extension for PlayBit
+Extension for Zarkon PlayBit
 
 ## License
 
